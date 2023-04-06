@@ -29,3 +29,6 @@ Sleep_physionet age Dataset _BCI project
 |Models|accuracy|
 | --- | --- |
 |SVM|% 72.03389830508475|
+|K-Neighbors-Classifier| % 81.35593220338984|
+|Decision-Tree-Classifier|% 87.28813559322035|
+|Random-Forest-Classifier|% 87.28813559322035|
